@@ -1,7 +1,7 @@
 === SEO Fields API Support ===
 Contributors: verzhykovskyi
 Tags: seo, rest-api, metadata, yoast, api
-Requires at least: 4.9.8
+Requires at least: 6.2
 Tested up to: 6.7
 Stable tag: 1.1
 License: GPLv2 or later
@@ -20,7 +20,7 @@ Exposes SEO fields managed by Yoast SEO to the WordPress REST API for programmat
 - **Lightweight**: Only activates its features when Yoast SEO is installed, minimizing overhead.
 
 ### Compatibility
-- Requires WordPress 4.9.8 or higher (due to the use of `register_post_meta`).
+- Requires WordPress 6.2 or higher.
 - Requires Yoast SEO to be installed and activated.
 
 == Installation ==
